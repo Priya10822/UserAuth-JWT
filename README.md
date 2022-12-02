@@ -1,12 +1,12 @@
 # UserAuth-JWT
 
 ## Description
-This project provides Authentication services to the user by providing Signup/Register and Login/Logout APIs. It has various layers of authorization and authentication to provide maximum possible security. Featureincludes login, logout, register, email or username validation and user authentication using jsonwebtoken. Can be used as starter for other Node.JS applications using Node.js, Express, JWT, mongoose, and more.
+This project provides Authentication services to the user by providing Signup/Register and Login/Logout APIs. It has various layers of authorization and authentication to provide maximum possible security. Feature includes login, logout, register, email or username validation and user authentication using jsonwebtoken. Can be used as starter for other Node.JS applications using Node.js, Express, JWT, mongoose, and more.
 
 ## Usage
 ### Install All Packages
 ```bash
-  npm install express ejs mongoose bcryptjs connect-flash cookie-parser express-session memorystore jsonwebtoken body-parser
+  npm install express ejs mongoose bcryptjs connect-flash cookie-parser express-session memorystore jsonwebtoken body-parser dotenv
 ```
 ### Install Nodemon for Development
 ```bash
